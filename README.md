@@ -20,13 +20,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: gold_sales, gold_customers, and gold_products with a total row count of X. A description of each table is as follows.
-- **sales_view:**
-- **cancellations_view:**
-- **giveaways_view:**
-- **test_misc_view:**
-- **adjustments_view:**
-- **duplicates_view:**
+The companies main database structure as seen below consists of four tables: gold_sales, gold_customers, and gold_products with a total row count of X.
 
 ![image](https://github.com/user-attachments/assets/04c04908-615a-467a-898d-922df679be3d)
 
