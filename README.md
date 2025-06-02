@@ -22,9 +22,6 @@ The companies main database structure as seen below consists of four tables: gol
 
 ![image](https://github.com/user-attachments/assets/04c04908-615a-467a-898d-922df679be3d)
 
-
-[Entity Relationship Diagram here]
-
 # Executive Summary
 
 ### Overview of Findings
