@@ -81,8 +81,11 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 # Assumptions and Caveats:
 
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+Throughout the analysis, several assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: records where InvoiceNo began with 'A' and "StockCode' equaled 'B' were assumed to be bad debt adjustments, these were excluded from the analysis).
+* Caveat 1: Records with order_date = 0000-00-00 were excluded from all time-based analyses to avoid skewed trends and inaccurate date aggregations. 
   
-* Assumption 2 (ex: records where where Quantity is greater than zero and UnitPrice equals 0 did not contribute to sales revenue, these were excluded from the analysis). 
+* Caveat 2: Records with birthdate = 0000-00-00 were excluded from customer-level demographic analysis, as valid age data was not available..
+
+* Assumption 1: Fields such as order recency and customer age were calculated based on the most recent valid order_date. It is assumed that no additional data is available beyond that final recorded transaction in January of 2014. 
+
