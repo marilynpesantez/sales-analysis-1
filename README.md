@@ -35,16 +35,15 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Insights Deep Dive
 ### Regional Trends Over Time
 
-* **Overall sales revenue experienced a 27.14% drop from 2011 to 2012.** This may reflect the aftershock of the global financial crisis which led to significant decreases in consumer spending. This is supported by large decreases in average order value across all six regions. However, with smaller order volume growth rates to counteract the dips in AOV, only Canada, the United States, and Australia saw decreases in revenue from 2011 to 2012. 
+* **Overall sales revenue experienced a 27.14% drop from 2011 to 2012.** This may reflect the aftershock of the global financial crisis which led to a significant decrease in consumer spending. This is supported by large decreases in average order value across all six regions. However, with smaller order volume growth rates to counteract the dips in AOV, only Canada, the United States, and Australia saw decreases in revenue from 2011 to 2012. 
 
-* **All six regional markets experienced massive growth from 2012 to 2013, with a 228.81% increase in overall revenue and a 551.18% increase in overall order volume.** This YOY growth coincides with the introduction of new product categories such as Accesories and Clothing.
+* **All six regional markets experienced massive growth from 2012 to 2013, with a 228.81% increase in overall revenue and a 551.18% increase in overall order volume.** This YOY growth coincides with the introduction of new product Accesories and Clothing. While these lower priced items make for lower AOV in 2013, these  new product categories may have helped get the retailer's foot in the door with new customers. 
 
 * **Revenue peaked at $767,666 in December 2013, while order volume reached 2,157 the same month.** This aligns with a universal surge in retail shopping leading up to the end-of-year holidays.
   
-* **The US and Australia lead in revenue, driven by higher levels of order volume.** These regions experienced the greatest 
+* **The US and Australia lead in revenue, driven by higher levels of order volume.** These regions, alone with Canada, experienced the greatest drops in revenue from 2011 to 2012, but the greatest rise in revenue from 2012 to 213. Thus, these markets seem to be more volatile than the others. 
 
-* **While AOV drops in 2013, order volume skyrockets. It's possible that the introduction of new product categories with lower volume products helped the retailer get their foot in the door with new customers While average order value peaked in December 2011, there was also a peak in average order value of cancelled transactions.** The peak in cancelled order volume during this same month may correspond with wholesaler customers overanticipating demand for their own respective shops and cancelled their orders through this wholesaler.
-
+* 
 ![YOY 2010-2011](https://github.com/user-attachments/assets/9dcc2f40-885b-47da-9ace-bcdb7488d417)
 
 ![Monthly Sales Trends (2009 - 2011)](https://github.com/user-attachments/assets/fb8c035e-911e-46ef-8e36-1b7db026d929)
