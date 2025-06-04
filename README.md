@@ -35,9 +35,13 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Insights Deep Dive
 ### Sales Trends:
 
-* **All five regions experienced massive growth in 2013 for both monthly revenue and order volume.** This YOY growth coincides with the introduction of new product categories such as Accesories and Clothing. Revenue peaked at $767,666 in December 2013, while order volume reached 2,157 the same month. This aligns with a universal peak in retail shopping leading up to the end-of-year holidays.
+* **Overall sales revenue experienced a 27.14% drop from 2011 to 2012.** This may be part of the aftershock of the global financial crisis after which many countries saw significant decreases in consumer spending. This impact was mainly seen in the US, Canada, and Australia, signaling volatility in these markets at this time. 
+
+* **All five regions experienced massive growth from 2012 to 2013, with a 228.81% increase in overall revenue and a 551.18% increase in overall order volume.** This YOY growth coincides with the introduction of new product categories such as Accesories and Clothing.
+
+* **Revenue peaked at $767,666 in December 2013, while order volume reached 2,157 the same month.** This aligns with a universal surge in retail shopping leading up to the end-of-year holidays.
   
-* **The US and Australia lead in revenue, driven by higher levels of order volume.** Monthly revenue and order volume both experienced YOY growth for each month from 2012 to 2013. Revenue declined for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed a similar trend, dipping in December 2010 and hitting a low in February 2011 before recovering the following month. 
+* **The US and Australia lead in revenue, driven by higher levels of order volume.** These regions experienced the greatest 
   
 * **Revenue and order volume recover in March, staggering through the summer months.**
   
