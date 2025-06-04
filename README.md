@@ -35,13 +35,13 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Insights Deep Dive
 ### Sales Trends:
 
-* **Revenue peaked in December 2013 at $767,666.00** This aligns with a universal peak in shopping and gift purchases leading up to the end-of-year holidays.
+* **All five regions experienced massive growth in 2013 for both monthly revenue and order volume.** This YOY growth coincides with the introduction of new product categories such as Accesories and Clothing. Revenue peaked at $767,666 in December 2013, while order volume reached 2,157 the same month. This aligns with a universal peak in retail shopping leading up to the end-of-year holidays.
   
-* **Sales revenue and order volume dipped in December following holiday season booms in both 2010 and 2011.** Revenue declined for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed a similar trend, dipping in December 2010 and hitting a low in February 2011 before recovering the following month. 
+* **The US and Australia lead in revenue, driven by higher levels of order volume.** Monthly revenue and order volume both experienced YOY growth for each month from 2012 to 2013. Revenue declined for three consecutive months starting in December 2010, dropping to its lowest point in February 2011 with $522,545.56 in revenue. Order volume followed a similar trend, dipping in December 2010 and hitting a low in February 2011 before recovering the following month. 
   
 * **Revenue and order volume recover in March, staggering through the summer months.**
   
-* **While average order value peaked in December 2011, there was also a peak in average order value of cancelled transactions.** The peak in cancelled order volume during this same month may correspond with wholesaler customers overanticipating demand for their own respective shops and cancelled their orders through this wholesaler.
+* **While AOV drops in 2013, order volume skyrockets. It's possible that the introduction of new product categories with lower volume products helped the retailer get their foot in the door with new customers While average order value peaked in December 2011, there was also a peak in average order value of cancelled transactions.** The peak in cancelled order volume during this same month may correspond with wholesaler customers overanticipating demand for their own respective shops and cancelled their orders through this wholesaler.
 
 ![YOY 2010-2011](https://github.com/user-attachments/assets/9dcc2f40-885b-47da-9ace-bcdb7488d417)
 
