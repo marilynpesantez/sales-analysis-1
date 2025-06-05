@@ -41,6 +41,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **Revenue peaked at $767,666 in December 2013, while order volume reached 2,157 the same month.** This aligns with a universal surge in retail shopping leading up to the end-of-year holidays.
 
+![Time-Series (Overall)](https://github.com/user-attachments/assets/6e74b451-333c-4603-9923-269934643c40)
+
+
 ### Regional Trends:
 
 * **Performance in the Canadian, US, and Australian markets drove the overall drop in revenue in 2012**. While all markets saw a dip in AOV, Canada, the US, and Australia had the lowest % increases in order volume which could not counteract  the drops in AOV.
