@@ -78,9 +78,9 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 Throughout the analysis, several assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Caveat 1: Records with order_date = 0000-00-00 were excluded from all time-based analyses to avoid skewed trends and inaccurate date aggregations. 
+* Caveat 1: For all records with a valid order_date, shipping_date was confirmed to be 7 days after order_date. Thus, shipping_date was used to calculate order_date value for records where order_date = 0000-00-00.
   
-* Caveat 2: Records with birthdate = 0000-00-00 were excluded from customer-level demographic analysis, as valid age data was not available..
+* Caveat 2: Records with birthdate = 0000-00-00 were excluded from customer-level demographic analysis, as valid age data was not available.
 
 * Assumption 1: Fields such as order recency and customer age were calculated based on the most recent valid order_date. It is assumed that no additional data is available beyond that final recorded transaction in January of 2014. 
 
