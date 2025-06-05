@@ -45,11 +45,11 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 ### Regional Trends:
 
-* **Performance in the Canadian, US, and Australian markets drove the overall drop in revenue in 2012**. While all markets saw a dip in AOV, Canada, the US, and Australia had the lowest % increases in order volume which could not counteract  the drops in AOV.
+* **Revenue declines in 2012 was primarily driven by Canadian, U.S., and Australian markets, which saw the greatest year-over-year drops. While all regions experienced a dip in in Average Order Value (AOV), these three countries had the smallest perentage gains in order volume, insufficient to offset the drop in AOV.
+  
+* **The U.S. and Australia are the company's top revenue-generating regions, driven by consistently higher order volume** However, both markets as well as Canada experienced the steepest revenue declines from 2011 to 2012, followed by the strongest recoveries from 2012 to 2013. This signals a pattern of volatility in the company's most critical markets. 
 
-* **The US and Australia lead in revenue, supported by higher levels of order volume.** These regions, along with Canada, experienced the greatest drops in revenue from 2011 to 2012, but the greatest rise in revenue from 2012 to 213. Thus, while the business depends heavily on US and Australia sales, these markets seem to be extremely volatile.
-
-* **Australia holds the highest average order value in 2013, indicating that customers in the region are willing to make higher value transactions/purchases/spend more per transaction on average. Thus, driving order volume should be a key focus.
+* **Australia recorded the highest average order value in 2013**, indicating that customers in the region are willing to make higher-value purchases on average. Given this purchasing behavior, increasing order volume in this region presents a key growth opportunity.
 
 ![Region](https://github.com/user-attachments/assets/bb158774-71ae-4541-a8fb-32151bd3c172)
 
