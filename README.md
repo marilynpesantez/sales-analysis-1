@@ -43,14 +43,11 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 ### Regional Trends:
 
-* **Performance in the Canadian, US, and Australian markets drove the overall drop in revenue in 2012**. While all markets saw a dip in AOV, only Canada, the US, and Australia saw lower growth rates in order volume which could not counteract with the drops in APV.
+* **Performance in the Canadian, US, and Australian markets drove the overall drop in revenue in 2012**. While all markets saw a dip in AOV, Canada, the US, and Australia had the lowest % increases in order volume which could not counteract  the drops in AOV.
 
-* **The US and Australia lead in revenue, driven by higher levels of order volume.** These regions, along with Canada, experienced the greatest drops in revenue from 2011 to 2012, but the greatest rise in revenue from 2012 to 213. Thus, while the business depends heavily on US and Australia sales, these markets seem to be extremely volatile.
+* **The US and Australia lead in revenue, supported by higher levels of order volume.** These regions, along with Canada, experienced the greatest drops in revenue from 2011 to 2012, but the greatest rise in revenue from 2012 to 213. Thus, while the business depends heavily on US and Australia sales, these markets seem to be extremely volatile.
 
-  
-* **Strong performers in Western Europe (Germany, EIRE, France, and Netherlands).** High sales revenue in these regions is supported by morderate-to-high order volumes and AOV, indicating a mix of both frequenty and high-value transactions across these countries. Customer retention should be a key focus. 
-  
-* **EIRE ranks second in total sales revenue after UK, but has a higher AOV than the UK.** A high AOV in EIRE indicates a more wholesale-focused customer base that is willing to make larger purchases. While customers in Ireland are spending more per transaction on average, overall order volume is lower than in the UK. Customer base size acts as greater limiting factor on order volume in EIRE compared to the UK. Driving purchase frequency should be a key focus.
+* **Australia holds the highest average order value in 2013, indicating that customers in the region are willing to make higher value transactions/purchases/spend more per transaction on average. Thus, driving order volume should be a key focus.
 
 
 [Visualization specific to category 3]
