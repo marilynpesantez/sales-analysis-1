@@ -5,7 +5,7 @@ This project explores sales, customer, and product-level data from an anonymous 
 Insights and recommendations are provided on the following key areas:
 
 - **Sales Trend Analysis:** A historical evluation of monthly and seasonal sales performance, focusing on key metrics such as Sales Revenue, Order Volume, Average Order Value (AOV), and growth. These insights help uncover demand cycles and inform more effective promotion timing and resource allocation. 
-- **Product Perfromance Evaluation:** An in-depth analysis of high top-performing products, categories, and subcategories to understand their contribution to overall revenue. These insights will inform inventory planning, merchandising strategy, and potential product bundling or promotional opportunities.
+- **Product Perfromance Evaluation:** An in-depth analysis of high top-performing products, categories, and subcategories to understand their contribution to overall revenue over time. These insights will inform inventory planning, merchandising strategy, and potential product bundling or promotional opportunities.
 - **Regional Sales Comparison:** A comparison of sales performance across different geographic regions, identifying areas of strength and underperformance. These insights can support region-specific marketing strategies, expansion planning, and targeted customer acquisition efforts.
 - **Customer Behavior Segmentation:** A segmentation of customers based on demographic attributes (e.g., age group, gender) to reveal trends in purchasing behavior and customer value. These insights can guide personalized marketing, loyalty programs, and the identification of high-value customer segments.
 
@@ -33,7 +33,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 # Insights Deep Dive
-### Regional Trends Over Time
+### Sales Over Time:
 
 * **Overall sales revenue experienced a 27.14% drop from 2011 to 2012.** This may reflect the aftershock of the global financial crisis which led to a significant decrease in consumer spending. This is supported by large decreases in average order value across all six regions (prior to the introduction of lower priced categories).
 
@@ -46,8 +46,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * **Performance in the Canadian, US, and Australian markets drove the overall drop in revenue in 2012**. While all markets saw a dip in AOV, only Canada, the US, and Australia saw lower growth rates in order volume which could not counteract with the drops in APV.
 
 * **The US and Australia lead in revenue, driven by higher levels of order volume.** These regions, along with Canada, experienced the greatest drops in revenue from 2011 to 2012, but the greatest rise in revenue from 2012 to 213. Thus, while the business depends heavily on US and Australia sales, these markets seem to be extremely volatile.
-  
-* **United Kingdom dominates in sales revenue and order volume, signaling the company's robust market presence in the region.** This may be reflective of the UK's large customer base and strong demand for gift-ware products, as well as logistical efficiencies in buying from a UK-based wholesaler. While the market is large and order volume is high, the relatively lower AOV in comparison to other regions indicates that a larger volume of lower-value orders is driving overall sales for the region. With the UK holding a top position, increasing AOV in this key market should be a key focus.
+
   
 * **Strong performers in Western Europe (Germany, EIRE, France, and Netherlands).** High sales revenue in these regions is supported by morderate-to-high order volumes and AOV, indicating a mix of both frequenty and high-value transactions across these countries. Customer retention should be a key focus. 
   
