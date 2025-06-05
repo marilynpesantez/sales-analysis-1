@@ -54,7 +54,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 ![Monthly Revenue by Country](https://github.com/user-attachments/assets/02c5d3dc-09c7-4fea-b00e-976208e7ce17)
 
 
-![YoY Growth by Country](https://github.com/user-attachments/assets/73c23ce3-3ff0-4723-a48c-983f6016e61d)
+![YoY Growth by Country](https://github.com/user-attachments/assets/c036dcff-70db-4a8b-8dbf-07af4febfc33)
 
 
 
