@@ -35,11 +35,11 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Insights Deep Dive
 ### Sales Over Time:
 
-* **Overall sales revenue experienced a 27.14% drop from 2011 to 2012.** This may reflect the aftershock of the global financial crisis which led to a significant decrease in consumer spending. This is supported by large decreases in average order value across all six regions (prior to the introduction of lower priced categories).
+* **Overall sales revenue experienced a 17.43% drop from 2011 to 2012.** This may reflect the aftershock of the global financial crisis which led to a significant decrease in consumer spending. This is supported by large decreases in average order value across all six regions (prior to the introduction of lower priced categories).
 
-* **Sales metrics recovered in 2013, with a 228.93% increase in overall revenue and a 551.24% increase in order volume.** This YOY growth coincides with the introduction of new product Accesories and Clothing. While these lower priced items make for lower AOV in 2013, these  new product categories may have helped get the retailer's foot in the door with new customers.
+* **Sales metrics recovered in 2013, with a 179.86% increase in overall sales revenue and a 551.24% rise in order volume.** This YOY growth coincides with the introduction of new product Accesories and Clothing. While these lower priced items make for lower AOV in 2013, these  new product categories may have helped get the retailer's foot in the door with new customers.
 
-* **Revenue peaked at $767,666 in December 2013, while order volume reached 2,157 the same month.** This aligns with a universal surge in retail shopping leading up to the end-of-year holidays.
+* **Revenue peaked at $1,874,128.00 in December 2013, while order volume reached 2,129 the same month.** This aligns with a universal surge in retail shopping leading up to the end-of-year holidays.
 
 ![Time-Series (Overall)](https://github.com/user-attachments/assets/6e74b451-333c-4603-9923-269934643c40)
 
