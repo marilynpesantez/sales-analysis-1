@@ -51,9 +51,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **Australia holds the highest average order value in 2013, indicating that customers in the region are willing to make higher value transactions/purchases/spend more per transaction on average. Thus, driving order volume should be a key focus.
 
-![Region](https://github.com/user-attachments/assets/53084dc6-a22e-41ce-94ae-6cd100439f6b)
-
-
+![Region](https://github.com/user-attachments/assets/bb158774-71ae-4541-a8fb-32151bd3c172)
 
 # Recommendations:
 
