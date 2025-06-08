@@ -57,7 +57,10 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **With a much higher average product price of $1,582.35, the Bike category contributes the most to the business, making up 93.67% of total revenue once that Accesories and Clothing categories were introduced.** The dip in 2012 sales revenue stems from a decrease in the Road bike revenue, while the surge in overall revenue in 2013 was aided by growth across all three bike subcategories, coinciding with the introduction of Accesories and Clothing.
 
-* **The decrease in Road Bike revenue in 2012 came from Australia, Canada, and the United States.** In Canada and the US, this aligned with a decrease in the number of units sold for road bikes. In australia, this stemmed from a decrease in the average price of the road bikes being sold. 
+* **The decrease in Road Bike revenue in 2012 came from Australia, Canada, and the United States.** In Canada and the US, this aligned with a decrease in the number of units sold for road bikes. In australia, this stemmed from a decrease in the average price of the road bikes being sold.
+* 
+
+Average price of the mountain bike products sold decreased from 2011 to 2012, however this owas offset by an increase in quantity sold across all six markets. this helped mitigate the less in revenue experienced within the road bike category, an continued to surge from 2012 to 2013. 
 
 ![Product 1](https://github.com/user-attachments/assets/e6a08d6d-dae4-411f-944c-c988554a5b11)
 
