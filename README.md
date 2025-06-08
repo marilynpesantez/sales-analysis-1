@@ -62,7 +62,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 Average price of the mountain bike products sold decreased from 2011 to 2012, however this owas offset by an increase in quantity sold across all six markets. this helped mitigate the less in revenue experienced within the road bike category, an continued to surge from 2012 to 2013. 
 
-![Product 1](https://github.com/user-attachments/assets/e6a08d6d-dae4-411f-944c-c988554a5b11)
+![Product 1](https://github.com/user-attachments/assets/317dd1c2-8257-48e5-be01-2f2c965abaf5)
 
 # Recommendations:
 
