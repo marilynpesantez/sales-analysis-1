@@ -53,6 +53,12 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 ![Region](https://github.com/user-attachments/assets/b3fae57b-4678-4350-b26d-b9f80d4a8f3e)
 
+### Product Performance:
+
+* **The Bike category brings in the greatest business, making up 93.67% of total revenue once that Accesories and Clothing categories were introduced. **Despite only making up 17.71% of total quanitity sold From January 2013 and on, this category has a much higher average price than the other two categories. 
+
+* **
+![Product 1](https://github.com/user-attachments/assets/e6a08d6d-dae4-411f-944c-c988554a5b11)
 
 # Recommendations:
 
