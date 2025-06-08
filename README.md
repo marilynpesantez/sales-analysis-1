@@ -55,11 +55,11 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 ### Product Performance:
 
-* **The Bike category is the business's primary revenue driver, accounting for 96.46% of total revenue. The decline in 2012 Revenue was driven by a drop in Road Bike sales, particularly in the United States, Canada, and Australia.** In the US and Canada, this dip aligned with a decrease in quantity sold (shift in demand), whereas in Australia it stemmed from a decline in the average price of the Road bikes sold (price sensitivity).
+* **The Bike category is the business's primary revenue driver, accounting for 96.46% of total revenue. The decline in 2012 Revenue was driven by a drop in Road Bike sales, particularly in the United States, Canada, and Australia.** In the US and Canada, this dip aligned with a decrease in quantity sold (suggesting a shift in demand), whereas in Australia it stemmed from a decline in the average price of the Road bikes sold, pointing to price sensitivity in that market.
 
-* **Mountain Bike Sales helped stabilize overall perfromance during the 2012 dip and become a key driver of growth in 2013.** Though average selling price of the Mountain bikes decreased slightly from 2011 to 2012, this was offset by an increase in units sold across all six markets. This volume-driven growth helped mitigate the revenue loss from Road Bikes and contributed to broad-based sales surge in 2013.
+* **Mountain Bike Sales helped stabilize overall perfromance during the 2012 dip and become a key driver of growth in 2013.** Though average selling price of the Mountain bikes decreased slightly from 2011 to 2012, this was offset by an increase in units sold across all six markets. This increase in volume helped mitigate the revenue loss from Road Bikes and contributed to the strong sales recovery seen in 2013.
 
-* * **Touring Bikes and broader product expansion fueled sustained revenue growth in 2013.** The expanded product mix of lower-cost items from the new Accessories and Clothing categories played a role in overall traffic. These diversified offerings helped attract new customers and support engagement with high-value items like bikes. Touring Bikes saw strong adoption within the US and Australian markets, while Mountain Bikes and Road Bikes saw a surge in sales. 
+  **Touring Bikes and broader product expansion fueled sustained revenue growth in 2013.** The introduction of lower-cost products from the new Accesorries and Clothing categories diversified the company's offerings, boosting overall traffic and engagement with the retailer. These new categories helped attracted a wider customer base while supporting strong sales of high-value items like bikes. Touring bikes saw strong adoption in the US and Australia, contributing alongside Mountain and Road Bikes to the surge in revenue. and expanded product mix 
 
 ![Product 1](https://github.com/user-attachments/assets/7d9ea205-632f-45df-bfb9-fabe284880d4)
 
