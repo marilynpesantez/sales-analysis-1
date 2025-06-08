@@ -55,9 +55,10 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 ### Product Performance:
 
-* **The Bike category brings in the greatest business, making up 93.67% of total revenue once that Accesories and Clothing categories were introduced. **Despite only making up 17.71% of total quanitity sold From January 2013 and on, this category has a much higher average price than the other two categories. 
+* **With a much higher average product price of $1,582.35, the Bike category contributes the most to the business, making up 93.67% of total revenue once that Accesories and Clothing categories were introduced.** The dip in 2012 sales revenue stems from a decrease in the Road bike revenue, while the surge in overall revenue in 2013 was aided by growth across all three bike subcategories, coinciding with the introduction of Accesories and Clothing.
 
-* **
+* **The decrease in Road Bike revenue in 2012 came from Australia, Canada, and the United States.** In Canada and the US, this aligned with a decrease in the number of units sold for road bikes. In australia, this stemmed from a decrease in the average price of the road bikes being sold. 
+
 ![Product 1](https://github.com/user-attachments/assets/e6a08d6d-dae4-411f-944c-c988554a5b11)
 
 # Recommendations:
