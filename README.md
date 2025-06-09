@@ -61,6 +61,10 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
   **Touring Bikes and broader product expansion fueled sustained revenue growth in 2013.** The introduction of lower-cost products within the new Accesorries and Clothing categories diversified the company's offerings, boosting overall traffic and engagement with the retailer. This expanded product mix helped attracted a wider customer base while supporting strong sales of high-value items like bikes. Touring bikes saw strong adoption in the US and Australia, contributing alongside Mountain and Road Bikes to the surge in revenue.
 
+* **The loss of the high-performing Road-150 model was a keyd river of the 2012 revenue decline in the Road Bike subcategoty.** This mode, which had a higher price point and strong sales across all si markets, was discontinued in 2012. It was replaced by the Road-250 mode, which sold at a lower price and failed to generate comparable demand. This switch had the greatest impact in the U.S. and Australia, where its strong performance had previously contributed significantly to overall revenue. The drop in Road Bike sales in these two markets was a major factor in the company's overall revenue decline in 2012.
+
+* On the other hand, the model upgrade within the Mountain Bike subcategory helped drive revenue growth. The Mountain-200, which replaced the earlier Mountain-100 model, led to a steady increase in sales revenue throughout 2012 and even steeper growth in 2013. This was particularly impactful within the U.S. market, where Mountain bike sales become a top contributor to overall revenue growth.
+
 ![Product 1](https://github.com/user-attachments/assets/7d9ea205-632f-45df-bfb9-fabe284880d4)
 
 # Recommendations:
