@@ -65,15 +65,18 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * On the other hand, the model upgrade within the Mountain Bike subcategory helped drive revenue growth.** The Mountain-200, which replaced the earlier Mountain-100 model, led to a steady increase in sales revenue throughout 2012 and even steeper growth in 2013. This was particularly impactful within the U.S. market, where Mountain bike sales become a top contributor to overall revenue growth.
 
+*The business should explore other cross-category opportunities as a means of getting the 'foot in the door". Entry-level products could be bundless with high-value items to encourage upselling.
 ![Product 1](https://github.com/user-attachments/assets/7d9ea205-632f-45df-bfb9-fabe284880d4)
 
 # Recommendations:
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* **
+* To avoid repeating the revenue loss seen in 2012, the company should take a data-driven approach to product lifecycle management, especially as it pertain to high-value categories like Road Bikes and more recently, Mountain Bikes. The discontinuation of strong earning Road-150 led to substantial revenue decline, particularly in the U.S. and Australia, the company's most profitable markets. Future product retirements should be data-informed. Successor models should be tested before fully phasing out top performers. 
 
-* Sales revenue and order volume experience month-over-month growth from August to November, signaling a holiday seasonality effect from a higher universal demand for gift-ware. **The company should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects. Further inventory planning should be carried out to meet demand, particularly for items that have sold out in the past.**
+* In contrast, the succesful transition from Mountain-100 to Mountain-200 underscores the fact that model updgrades can fuel growth when aligned with customer demand. The company should carry out this approach on other subcategories by identifying which products fall above and below the average sales revenue within the subcategory. New models should be introduced based on previous success (price point, popularity, regional trends) while maintaining an appeal across customer demographics.
+*
+* New models should Sales revenue and order volume experience month-over-month growth from August to November, signaling a holiday seasonality effect from a higher universal demand for gift-ware. **The company should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects. Further inventory planning should be carried out to meet demand, particularly for items that have sold out in the past.**
   
 * AOV dips from January to March. **The business should offer post-holiday promotions to boost order volume and sales. To reach existing customers, using a re-engagement email campaign to pull customers back in and encourage high-value purchases through pricing and bundling strategies/offers.**
   
