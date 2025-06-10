@@ -59,17 +59,19 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **Mountain Bike Sales helped stabilize overall perfromance during the 2012 dip and become a key driver of growth in 2013.** Though average selling price of the Mountain bikes decreased slightly from 2011 to 2012, this was offset by an increase in units sold across all six markets. This increase in volume helped mitigate the revenue loss from Road Bikes and contributed to the strong sales recovery seen in 2013.
 
-  **Touring Bikes and broader product expansion fueled sustained revenue growth in 2013.** The introduction of lower-cost products within the new Accesorries and Clothing categories diversified the company's offerings, boosting overall traffic and engagement with the retailer. This expanded product mix helped attracted a wider customer base while supporting strong sales of high-value items like bikes. Touring bikes saw strong adoption in the US and Australia, contributing alongside Mountain and Road Bikes to the surge in revenue.
+  **Touring Bikes and broader product expansion fueled sustained revenue growth in 2013.** The introduction of lower-cost products within the new Accesorries and Clothing categories diversified the company's offerings, boosting overall traffic. This expanded product mix helped attracted a wider customer base, supporting the strong sales of high-value items like bikes. In addition, touring bikes saw strong adoption in the US and Australia, contributing alongside Mountain and Road Bikes to the surge in revenue.
 
-* **The loss of the high-performing Road-150 model was a keyd river of the 2012 revenue decline in the Road Bike subcategoty.** This mode, which had a higher price point and strong sales across all si markets, was discontinued in 2012. It was replaced by the Road-250 mode, which sold at a lower price and failed to generate comparable demand. This switch had the greatest impact in the U.S. and Australia, where its strong performance had previously contributed significantly to overall revenue. The drop in Road Bike sales in these two markets was a major factor in the company's overall revenue decline in 2012.
+* **The loss of the high-performing Road-150 model was a key driver of the 2012 revenue decline in the Road Bike subcategoty.** This model, which sat at a higher price point and garnered promising sales across all six markets, was discontinued in 2012. It was replaced by the Road-250 model, which sold at a lower price and failed to generate the same demand. This switch had the greatest impact in the U.S. and Australia, where it had previously contributed significantly to overall revenue. The drop in Road Bike sales in these two markets was a major factor in the company's overall revenue decline in 2012.
 
-* On the other hand, the model upgrade within the Mountain Bike subcategory helped drive revenue growth. The Mountain-200, which replaced the earlier Mountain-100 model, led to a steady increase in sales revenue throughout 2012 and even steeper growth in 2013. This was particularly impactful within the U.S. market, where Mountain bike sales become a top contributor to overall revenue growth.
+* On the other hand, the model upgrade within the Mountain Bike subcategory helped drive revenue growth.** The Mountain-200, which replaced the earlier Mountain-100 model, led to a steady increase in sales revenue throughout 2012 and even steeper growth in 2013. This was particularly impactful within the U.S. market, where Mountain bike sales become a top contributor to overall revenue growth.
 
 ![Product 1](https://github.com/user-attachments/assets/7d9ea205-632f-45df-bfb9-fabe284880d4)
 
 # Recommendations:
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+
+* **
 
 * Sales revenue and order volume experience month-over-month growth from August to November, signaling a holiday seasonality effect from a higher universal demand for gift-ware. **The company should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects. Further inventory planning should be carried out to meet demand, particularly for items that have sold out in the past.**
   
