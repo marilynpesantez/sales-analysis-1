@@ -38,7 +38,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **Overall sales revenue decreased by $1,232,857 from 2011 to 2012, a 17.43% YoY drop.** This is supported by large decreases in average order value across all six regions, with overall AOV falling by 44.02%.
  
-* **Sales performance rebounded in 2013, with overall sales revenue increasing by $10,507,639, a 179.86% YoY increase from 2012. Order volume also surged, growing by 551.24% rise in order volume.** This steep growth coincided with the launch of two new product categories: Accesories and Clothing. While this brought down average order value, the product expansion allowed for lower-cost entry points into the retailer's shop. 
+* **Sales performance rebounded in 2013, with overall sales revenue increasing by $10,507,639, a 179.86% YoY increase from 2012. Order volume also surged, growing by 551.24%.** This steep growth coincided with the launch of two new product categories: Accesories and Clothing. While this brought down average order value, the product expansion allowed for lower-cost entry points into the retailer's shop. 
 
 * **Revenue peaked at $1,874,128.00 in December 2013, while order volume hit a high of 2,129 the same month.** This seasonal spike aligns with a universal surge in retail activity leading up to the end-of-year holidays. Compared to the December 2012, revenue grew by 200.12% and order volume increased by by 517.46%, underscoring the interaction of the expanded product mix and holiday demand.
 
