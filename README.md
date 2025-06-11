@@ -40,17 +40,17 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
  
 * **Sales performance rebounded in 2013, with overall sales revenue increasing by $10,507,639, a 179.86% YoY increase from 2012. Order volume also surged, growing by 551.24%.** This steep growth coincided with the launch of two new product categories: Accesories and Clothing. While this brought down average order value, the product expansion allowed for lower-cost entry points into the retailer's shop. 
 
-* **Revenue peaked at $1,874,128.00 in December 2013, while order volume hit a high of 2,129 the same month.** This seasonal spike aligns with a universal surge in retail activity leading up to the end-of-year holidays. Compared to December 2012, revenue grew by 200.12% and order volume by 517.46%, underscoring the interaction between the expanded product mix and holiday demand.
+* **Revenue peaked at $1,874,128.00 in December 2013, while order volume hit a high of 2,192 the same month.** This seasonal spike aligns with a universal surge in retail activity leading up to the end-of-year holidays. Compared to December 2012, revenue grew by 200.12% and order volume by 517.46%, underscoring the interaction between the expanded product mix and holiday demand.
 
 ![Time-Series (Overall)](https://github.com/user-attachments/assets/c2db7fe5-d43e-42c9-9134-722931184b7f)
 
 ### Regional Trends:
 
-* **Revenue declines in 2012 was primarily driven by Canadian, U.S., and Australian markets**, which saw the greatest year-over-year drops. While all regions experienced a dip in in Average Order Value (AOV), these three countries had the smallest perentage gains in order volume, insufficient to offset the drop in AOV.
+* **Revenue decline in 2012 was primarily driven by Canadian, U.S., and Australian markets**, which all saw year-over-year drops. Canada saw a revenue decrease of $263,941 (-46.18%), the U.S. dropped by $1,016,327 (-41.47%), and Australia by $435,267 (-16.98). While all regions experienced a dip in in Average Order Value (AOV), ranging from 38.48% to 48.03%. These three countries had the lowest percentage gains in order volume, insufficient to offset the drop in AOV.
   
-* **The U.S. and Australia are the company's top revenue-generating regions**, driven by consistently higher order volume. However, both markets as well as Canada experienced the steepest revenue declines from 2011 to 2012, followed by the strongest recoveries from 2012 to 2013. This signals a pattern of volatility in the company's most critical markets. 
+* **The U.S. and Australia are the company's top revenue-generating regions, making up 31.20% and 30.88% of historical revenue, respectively.** This high performance is driven by consistently higher levels of order volume. However, both markets along with Canada experienced the steepest revenue declines from 2011 to 2012, followed by the strong recoveries from 2012 to 2013. This signals a pattern of volatility in the company's most critical markets. 
 
-* **Australia recorded the highest average order value in 2013**, indicating that customers in the region are willing to make higher-value purchases on average. Given this purchasing behavior, increasing order volume in this region presents a key growth opportunity.
+* **Australia recorded the highest average order value in 2013 at $935**, indicating that customers in the region are willing to make higher-value purchases on average, even once lower-cost items were introduced. Given this purchasing behavior, increasing order volume in this region presents a key growth opportunity.
 
 ![Region](https://github.com/user-attachments/assets/b3fae57b-4678-4350-b26d-b9f80d4a8f3e)
 
