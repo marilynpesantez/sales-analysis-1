@@ -40,7 +40,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
  
 * **Sales performance rebounded in 2013, with overall sales revenue increasing by $10,507,639, a 179.86% YoY increase from 2012. Order volume also surged, growing by 551.24%.** This steep growth coincided with the launch of two new product categories: Accesories and Clothing. While this brought down average order value, the product expansion allowed for lower-cost entry points into the retailer's shop. 
 
-* **Revenue peaked at $1,874,128.00 in December 2013, while order volume hit a high of 2,129 the same month.** This seasonal spike aligns with a universal surge in retail activity leading up to the end-of-year holidays. Compared to the December 2012, revenue grew by 200.12% and order volume increased by by 517.46%, underscoring the interaction of the expanded product mix and holiday demand.
+* **Revenue peaked at $1,874,128.00 in December 2013, while order volume hit a high of 2,129 the same month.** This seasonal spike aligns with a universal surge in retail activity leading up to the end-of-year holidays. Compared to December 2012, revenue grew by 200.12% and order volume by 517.46%, underscoring the interaction between the expanded product mix and holiday demand.
 
 ![Time-Series (Overall)](https://github.com/user-attachments/assets/c2db7fe5-d43e-42c9-9134-722931184b7f)
 
