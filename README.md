@@ -4,8 +4,9 @@ This project explores sales, customer, and product-level data from an anonymous 
 
 Insights and recommendations are provided on the following key areas:
 
-- **Sales Trend Analysis:** A historical evluation of monthly and seasonal sales performance, focusing on key metrics such as Sales Revenue, Order Volume, Average Order Value (AOV), and growth. These insights help uncover demand cycles and inform more effective promotion timing and resource allocation. 
-- **Product Perfromance Evaluation:** An in-depth analysis of high top-performing products, categories, and subcategories to understand their contribution to overall revenue over time. These insights will inform inventory planning, merchandising strategy, and potential product bundling or promotional opportunities.
+- **Sales Trend Analysis:** An evluation of monthly and seasonal sales performance, focusing on key metrics such as Sales Revenue, Order Volume, Average Order Value (AOV), and YoY growth. These insights help uncover demand cycles and inform more effective promotion timing and resource allocation.
+  **Regional Sales Comparison:** A comparison of sales performance across 6 geographic regions, identifying areas of strength and underperformance. These insights can support region-specific marketing strategies, expansion planning, and targeted customer acquisition efforts.
+- **Product Perfromance Evaluation:** An in-depth analysis of high top-performing categories, subcategories, and products to understand their contribution to overall revenue over time. These insights will inform inventory planning, merchandising strategy, and potential product bundling or promotional opportunities.
 - **Regional Sales Comparison:** A comparison of sales performance across different geographic regions, identifying areas of strength and underperformance. These insights can support region-specific marketing strategies, expansion planning, and targeted customer acquisition efforts.
 - **Customer Behavior Segmentation:** A segmentation of customers based on demographic attributes (e.g., age group, gender) to reveal trends in purchasing behavior and customer value. These insights can guide personalized marketing, loyalty programs, and the identification of high-value customer segments.
 
