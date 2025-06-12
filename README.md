@@ -45,8 +45,6 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 ![Time-Series (Overall)](https://github.com/user-attachments/assets/c2db7fe5-d43e-42c9-9134-722931184b7f)
 
 ### Regional Trends:
-
-* **Revenue decline in 2012 was primarily driven by Canadian, U.S., and Australian markets**, which all saw year-over-year drops. Canada saw a revenue decrease of $263,941 (-46.18%), the U.S. dropped by $1,016,327 (-41.47%), and Australia by $435,267 (-16.98). While all regions experienced a dip in in Average Order Value (AOV), ranging from 38.48% to 48.03%. These three countries had the lowest percentage gains in order volume, insufficient to offset the drop in AOV.
   
 * **The U.S. and Australia are the company's top revenue-generating regions, making up 31.21% and 30.86% of historical revenue, respectively.** This high performance is driven by consistently higher levels of order volume. However, both markets along with Canada were the drivers of the 2012 revenue decline. While all regions experienced a dip in in Average Order Value (AOV), these three countries had the lowest percentage gains in order volume, insufficient to offset the drop in AOV. This resulted in a $263,941 (-46.18%) revenue decrease in Canada, a $1,016,327 (-41.47%) drop in the U.S., and a $435,267 (-16.98%) decrease in Australia.
 
@@ -56,7 +54,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 ### Product Performance:
 
-* **The Bike category is the business's primary revenue driver, accounting for 96.46% of total revenue.** In 2012, total revenue declined by $1,232,857 (a 17.43% drop from 2011), which stemmed only from a decrease in Road Bike revenue in the United States, Canada, and Australia. Together, these markets made up 79.03% of total Road bikes sales in 2011. Together, road bike sales in these three markets alone made up 64.14% of total revenue in 2011. Meanwhile, Mountain Bike Sales helped stabilize overall performance during this 2012 dip. Though average selling price of Mountain bikes decreased from $3,373 in 2011 to $2,061 in 2012, unit sales increased by 177.97%, with growth across all six markets. This volume-driven revenue growth alleviated the impact of Road Bike losses and contributed to a revenue increase of $4,076,615.00 in 2013 - a 180.13% YoY growth within the Mountain Bike subcategory. 
+* **The Bike category is the business's primary revenue driver, accounting for 96.46% of total revenue.** In 2012, total revenue declined dropped YoY by 17.43%, driven entirely by a decrease in Road Bike sales within in the United States, Canada, and Australia. Road Bike sales in these three regions alone had previously made up 64.14% of total revenue in 2011.
+*
+* **Mountain Bike revenue helped offset the losses experienced in 2012. ** Though average selling price of Mountain bikes decreased by $1,312 in 2012, unit sales increased by 177.97%. This volume-driven Mountain Bike revenue growth alleviated the impact of Road Bike losses and contributed to a revenue increase of $4,076,615.00 in 2013 - a 180.13% YoY increase for the subcategory. 
 
 * **Touring Bikes and broader product expansion fueled strong revenue recovery in 2013.** The company introduced Accesories and Clothing in late 2012, which despite only accounting for 6.06% of revenue that year, expanded the product mix and and likely drove customer acquisition/attract a wider customer base. These lower-cost items had an average selling price of $23 in 2013 and sold a total of 43,120 units in that first full year. This boost in traffic likely supported the sales of high-value items like bikes. Touring bikes saw strong adoption in the US and Australia, making up 23%.38% of sales revenue in 2013.
 
