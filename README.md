@@ -55,30 +55,39 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 ### Product Performance:
 
 * **The Bike category is the business's primary revenue driver, accounting for 96.46% of total revenue.** In 2012, total revenue declined dropped YoY by 17.43%, driven entirely by a decrease in Road Bike sales within in the United States, Canada, and Australia. Road Bike sales in these three regions alone had previously made up 64.14% of total revenue in 2011.
-*
-* **Mountain Bike revenue helped offset the losses experienced in 2012. ** Though average selling price of Mountain bikes decreased by $1,312 in 2012, unit sales increased by 177.97%. This volume-driven Mountain Bike revenue growth alleviated the impact of Road Bike losses and contributed to a revenue increase of $4,076,615.00 in 2013 - a 180.13% YoY increase for the subcategory. 
 
-* **Touring Bikes and broader product expansion fueled strong revenue recovery in 2013.** The company introduced Accesories and Clothing in late 2012, which despite only accounting for 6.06% of revenue that year, expanded the product mix and and likely drove customer acquisition/attract a wider customer base. These lower-cost items had an average selling price of $23 in 2013 and sold a total of 43,120 units in that first full year. This boost in traffic likely supported the sales of high-value items like bikes. Touring bikes saw strong adoption in the US and Australia, making up 23%.38% of sales revenue in 2013.
+* * **The loss of the high-performing Road-150 model was the source of the 2012 revenue decline within the Road Bike subcategory.** This model generated $5,524,432 in 2011 (78.08% of total revenue that year) and held the top spot for Road Bike sales in all 6 markets. It was discontinued in 2012 and replaced by the Road-250, which already sat at a lower average selling price of $2,279.14 and failed to generate comparable demand. This model brought in only $2,719,010 in 2012, less than half that of the Road-150 in 2011. This switch had the greatest negative impact on Road Bike sales the U.S. and Australia, where it had previously contributed considerably to overall revenue. 
+ 
+* **Mountain Bike revenue helped offset the losses experienced in 2012.** Though average selling price of Mountain bikes decreased by $1,312 in 2012, unit sales increased by 177.97%. This volume-driven Mountain Bike revenue growth alleviated the impact of Road Bike losses and contributed to a revenue increase of $4,076,615.00 in 2013 - a 180.13% YoY increase for the subcategory. 
 
-* **The loss of the high-performing Road-150 model was a key driver of the 2012 revenue decline in the Road Bike subcategory.** This model generated $5,524,432 in 2011 (78.08% of total revenue that year) and held the top spot for Road Bike sales in all 6 markets. It was discontinued in 2012 and replaced by the Road-250, which had an overall average selling price of $2,279.14 but failed to generate comparable demand. This model brought in only $2,719,010 in 2012, less than half that of the Road-150 in 2011. This switch had the greatest negative impact in the U.S. and Australia, where it had previously contributed considerably to overall revenue. 
+* **Touring Bikes and broader product expansion fueled strong revenue recovery in 2013.** The company introduced Accesories and Clothing in late 2012, which despite only accounting for 6.06% of revenue in 2013, expanded the product mix and and likely supported customer acquisition. These lower-cost items had an average selling price of $23 in 2013 and sold a total of 43,120 units in that first full year. This boost in traffic likely supported the sales of high-value items like bikes. Touring bikes saw strong adoption in the US and Australia, making up 23%.38% of sales revenue in 2013.
 
 * **On the other hand, the model upgrade within the Mountain Bike subcategory helped drive revenue growth.** The Mountain-200, which replaced the earlier Mountain-100 model, sold 180.05% more units in 2012 than the Mountain-100 did the previous year. This growth was accelerated in 2013, where it become the top-performing product across all six markets, making up 34.61% of sales revenue that year. The success of this transition marks the potential of a well-timed upgrade that captures market demand and drives category growth.
 
 *The business should explore other cross-category opportunities as a means of getting the 'foot in the door". Entry-level products could be bundless with high-value items to encourage upselling.
+
+* the business should take a data-driven approach especially in key markets like the U.S. and Australia, which accounted for 34.64% and 36.23% of total revenue in 2011. 
 ![Product 1](https://github.com/user-attachments/assets/7d9ea205-632f-45df-bfb9-fabe284880d4)
+* In contrast, the succesful transition from Mountain-100 to Mountain-200 underscores the fact that model updgrades can fuel growth when aligned with customer demand. The company should carry out this approach on other subcategories by identifying which products fall above and below the average sales revenue within the subcategory. New models should be introduced based on previous success (price point, popularity, regional trends) while maintaining an appeal across customer demographics.
 
 # Recommendations:
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* To prevent revenue loss and optimize product upgrades, the business should take a data-driven approach to managing product lifecycles, especially in key markets like the U.S. and Australia, which accounted for 34.64% and 36.23% of total revenue in 2011, respectively. especially as it realtes to high-value categories like Road Bikes and Mountain Bikes. The discontinuation of high earning Road-150 model led to substantial revenue decline, particularly in the U.S. and Australia, the company's most profitable markets. Future product retirements should be data-informed. Successor models should be tested before fully phasing out top performers. 
+* **Manage product lifecycles should based on historical performance and regional considerations.** The discontinuation of the Road-150 model, despite being a top-selling product across all six markets in 2011, led to a sharp revenue decline in 2012. To prevent revenue loss and optimize product upgrades, future product retirements should be data-informed, especially in the company's most profible markets. Successor models should be tested for market fit before fully phasing out top performers. 
 
-* In contrast, the succesful transition from Mountain-100 to Mountain-200 underscores the fact that model updgrades can fuel growth when aligned with customer demand. The company should carry out this approach on other subcategories by identifying which products fall above and below the average sales revenue within the subcategory. New models should be introduced based on previous success (price point, popularity, regional trends) while maintaining an appeal across customer demographics.
+* **Use lower-ticket items as a tool to aid customer acquisition and upselling opportunities.** Accessories and Clothing played a key roal in the 2013 revenue recovery by broadening the product mix, attracting more customers and boosting order volume. This new traffic likely supported the lift in sales of high-value products. The business should continue expandinging low-cost offerings and implement bundling opportunities with high-value items to bost average order value.
+
+* **Tap into high-value markets like Australia, which consistently held the top spot for average order volume.** This willingness to spend more per transaction should be leveraged through targeted campaigns and incentives to increase order frequency. Could run an email campaign for those that have made an Accesories or Bike perchase in the last 6 months.
 *
-* New models should Sales revenue and order volume experience month-over-month growth from August to November, signaling a holiday seasonality effect from a higher universal demand for gift-ware. **The company should double down on promotions, discounts, and advertising spend during November and December to take advantage of these seasonality effects. Further inventory planning should be carried out to meet demand, particularly for items that have sold out in the past.**
-  
-* AOV dips from January to March. **The business should offer post-holiday promotions to boost order volume and sales. To reach existing customers, using a re-engagement email campaign to pull customers back in and encourage high-value purchases through pricing and bundling strategies/offers.**
-  
+* Capitalize on holiday demand
+*
+* support customer acquisition. The business should consider building on this strategy by exploring bundling offers and 
+
+* To maximize end-of-year performance, the business should plan campaigns targeted campaigns around the holiday season.
+
+
+
 * Sales revenue and order volume recover in March, fluctuating through to August. **The business should consider running targeted spring and summer campaigns catered to major holidays or events celebrated in each respective region. The retailer can drive order volume by tapping into these unique "ocassions" and celebrations for regions that already have a moderate-to-high AOV. The Month of may holds a lot of potential, with Mother's day occuring across many European countries as well local holidays within France, Germany, Italy, and Spain. March holds opportunity for targeted campaigns in Norway (Easter preparations) and Ireland (St. Patrick's Day).**
   
 * High Sales and Order Volume in the UK. **Consider offering discounts on larger orders or creating bundled packages. This could boost average order value and contribute to substantial revenue growth.**
