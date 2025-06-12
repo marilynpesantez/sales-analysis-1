@@ -64,15 +64,11 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **On the other hand, the model upgrade within the Mountain Bike subcategory helped drive revenue growth.** The Mountain-200, which replaced the earlier Mountain-100 model, sold 180.05% more units in 2012 than the Mountain-100 did the previous year. This growth was accelerated in 2013, where it become the top-performing product across all six markets, making up 34.61% of sales revenue that year. The success of this transition marks the potential of a well-timed upgrade that captures market demand and drives category growth.
 
-*The business should explore other cross-category opportunities as a means of getting the 'foot in the door". Entry-level products could be bundless with high-value items to encourage upselling.
-
-* the business should take a data-driven approach especially in key markets like the U.S. and Australia, which accounted for 34.64% and 36.23% of total revenue in 2011. 
 ![Product 1](https://github.com/user-attachments/assets/7d9ea205-632f-45df-bfb9-fabe284880d4)
-* In contrast, the succesful transition from Mountain-100 to Mountain-200 underscores the fact that model updgrades can fuel growth when aligned with customer demand. The company should carry out this approach on other subcategories by identifying which products fall above and below the average sales revenue within the subcategory. New models should be introduced based on previous success (price point, popularity, regional trends) while maintaining an appeal across customer demographics.
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we would recommend the product and marketing teams to consider the following: 
 
 * **Manage product lifecycles should based on historical performance and regional considerations.** The discontinuation of the Road-150 model, despite being a top-selling product across all six markets in 2011, led to a sharp revenue decline in 2012. To prevent revenue loss and optimize product upgrades, future product retirements should be data-informed, especially in the company's most profible markets. Successor models should be tested for market fit before fully phasing out top performers. 
 
