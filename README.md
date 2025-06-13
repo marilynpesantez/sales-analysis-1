@@ -1,17 +1,17 @@
 # Project Background
-This project explores sales, customer, and product-level data from an anonymous retailer, with available records spanning from December 29th, 2010, to January 28th, 2014. Although the original data source is unspecified, the datasets provides a rich, multi-year view of retail activity, making it well-suited for exploratory analysis. This project analyzes overall retail performance to uncover actional insights into sales trends, customer behavior, and product performance. The goal is to uncover opportunities for targeted promotions, customer segmentation strategies, particularly around seasonal fluctuations and holiday-driven demand.
+This project explores sales, customer, and product-level data from an anonymous retailer, with available records spanning from December 29th, 2010, to January 28th, 2014. Although the original data source is unspecified, the datasets provides a multi-year view of retail activity, making it well-suited for exploratory analysis. This project analyzes overall retail performance to uncover actional insights into sales trends, customer behavior, and product performance. The goal is to uncover opportunities for targeted promotions, customer segmentation strategies, particularly around seasonal fluctuations and holiday-driven demand.
 
 
 Insights and recommendations are provided on the following key areas:
 
-- **Sales Trend Analysis:** An evluation of monthly and seasonal sales performance, focusing on key metrics such as Sales Revenue, Order Volume, Average Order Value (AOV), and YoY growth. These insights help uncover demand cycles and inform more effective promotion timing and resource allocation.
-  **Regional Sales Comparison:** A comparison of sales performance across 6 geographic regions, identifying areas of strength and underperformance. These insights can support region-specific marketing strategies, expansion planning, and targeted customer acquisition efforts.
-- **Product Perfromance Evaluation:** An in-depth analysis of high top-performing categories, subcategories, and products to understand their contribution to overall revenue over time. These insights will inform inventory planning, merchandising strategy, and potential product bundling or promotional opportunities.
+- **Sales Trend Analysis:** An evluation of monthly and seasonal sales performance, focusing on key metrics such as Sales Revenue, Order Volume, Average Order Value (AOV), and YoY growth. These insights help uncover demand cycles and inform more effective promotion timing and budget allocation.
+  **Regional Sales Comparison:** A comparison of sales performance across 6 geographic regions, identifying areas of strength and untapped potential. These insights can support region-specific loyalty strategies and\ customer acquisition efforts.
+- **Product Perfromance Evaluation:** An in-depth analysis of high top-performing categories, subcategories, and products to understand their contribution to overall revenue over time. These insights will inform product lifecycle strategy, expansion planning, and potential product bundling or promotional opportunities.
 - **Customer Behavior Segmentation:** A segmentation of customers based on demographic attributes (e.g., age group, gender) to reveal trends in purchasing behavior and customer value. These insights can guide personalized marketing, loyalty programs, and the identification of high-value customer segments.
 
 The SQL queries used to inspect and clean the data for this analysis can be found here 
 
-Targed SQL queries regarding various business questions can be found here [https://github.com/marilynpesantez/Portfolio1/blob/main/Queries.sql].
+Targed SQL queries regarding various business questions can be found here .
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
@@ -26,10 +26,9 @@ The companies main database structure as seen below consists of three tables: go
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+Revenue performance from 2011 to 2013 was shaped by product mix and pricing strategy, which influenced volitality in demand. A poorly timed discontinuation of the top-selling Road Bike model led to considerable revenue decline in 2012, while the 2013 rebound was driven by high-volume Mountain Bike sales and more broadly, the introduction of lower-cost products in the new Accessories and Clothing categories. Future revenue stability depends on aligning product transitions with usage/buyer behavior, using lower-ticket items to drive volume and customer acquisition. Regional sales cycles should be centered around stimulating demand in high AOV regions and upselling during periods of high demand.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
-
 
 
 # Insights Deep Dive
@@ -45,9 +44,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 ### Regional Trends:
   
-* **The U.S. and Australia are the company's top revenue-generating regions, making up 31.21% and 30.86% of historical revenue, respectively.** This high performance is driven by consistently higher levels of order volume. However, both markets along with Canada were the drivers of the 2012 revenue decline. While all regions experienced a dip in in Average Order Value (AOV), these three countries had the lowest percentage gains in order volume, insufficient to offset the drop in AOV. This resulted in a -46.18% revenue decrease in Canada, a 41.47% drop in the U.S., and a -16.98% decrease in Australia.
+* **The U.S. and Australia are the company's top revenue-generating regions, making up 31.21% and 30.86% of historical revenue, respectively.** This high performance relative to other regions is driven by higher levels of order volume, as well as high AOV in Australia. However, both markets along with Canada were the drivers of the 2012 revenue decline. While all regions experienced a dip in in Average Order Value (AOV), these three countries had the lowest percentage gains in order volume, insufficient to offset the drop in AOV. This resulted in a -46.18% revenue decrease in Canada, a 41.47% drop in the U.S., and a -16.98% decrease in Australia.
 
-* **Australia recorded the highest average order value across all three years**, indicating that customers in the region are willing to make higher-value purchases on average, even once lower-cost items were introduced. Given this purchasing behavior, increasing order volume in this region presents a key growth opportunity.
+* **Australia recorded the highest average order value across all three years**, indicating that customers in the region are willing to make higher-value purchases on average. Given this purchasing behavior, increasing order volume in this region presents a key growth opportunity.
 
 ![Region](https://github.com/user-attachments/assets/b3fae57b-4678-4350-b26d-b9f80d4a8f3e)
 
@@ -69,11 +68,11 @@ Based on the insights and findings above, we would recommend the product and mar
 
 * **Manage product lifecycles based on historical performance and regional considerations.** The discontinuation of the Road-150 model, despite being a top-selling product across all six markets in 2011, led to a sharp revenue decline in 2012. To prevent similar losses and optimize product upgrades, future product retirements should be data-informed, especially in the company's most profible markets. Successor models should be tested for market fit before fully phasing out top performers. 
 
-* **Tailor product strategy basad on usage context and buyer behavior**. Mountain bikes typically endure harsher terrain and riding conditions, making it more frequently replaced and sensitive to price. This likely contributed to the success of the lower cost Mountain-200 model. Road bikes are used on smoother surfaces, allowing for a longer lifespan. Customers may be willing to invest more in road bike durability, making the shift to a lower-cost model potentially damanging to revenue. 
+* **Tailor product strategy basad on usage context and buyer behavior**. Mountain bikes typically endure harsher terrain and riding conditions, making it more frequently replaced and sensitive to price. This likely contributed to the success of the lower cost Mountain-200 model. Road bikes are used on smoother surfaces, allowing for a longer lifespan. Customers may be willing to invest more in road bike durability, making the shift to a lower-cost model potentially damanging to revenue. User behavior should be considered when setting prices and introducing successor models. 
 
-* **Use lower-ticket items as a tool for customer acquisition and upselling in regions and during high-volume periods.** Accessories and Clothing played a key roal in the 2013 revenue recovery by expanding the product mix, attracting more customers and boosting order volume. This new traffic likely supported the lift in sales of higher priced products. The business should continue developing low-cost offerings and implement limited time discounts and bundling offers with high-value items to increase average order value. These campaigns should be concentrated in June-August and October-December, when order volume levels are already elevated.
+* **Use lower-ticket items as a tool for customer acquisition and upselling during high-volume periods.** Accessories and Clothing played a key roal in the 2013 revenue recovery by expanding the product mix, attracting more customers and boosting order volume. This new traffic likely supported the lift in sales of higher priced products. The business should continue developing low-cost offerings and implement limited time discounts and bundling offers with high-value items to increase average order value. These campaigns should be concentrated in June-August and October-December, when order volume levels are already elevated.
 
-* **Capitalize on markets with high average order value** Leverage targeted campaigns and incentives should to increase order frequency in regions where customers are already willing to spend more per transaction. Could run a targeted email campaign for those that have made an Accesories or Clothing purchase in the last 6 months. Implement a loyalty program, incentivize customers to increase purchase frequency. 
+* **Capitalize on markets with high average order value.** Leverage targeted campaigns and incentives to increase order frequency in regions where customers are already willing to spend more per transaction. Could run a targeted email campaign for those that have made an Accesories or Clothing purchase in the last 6 months. Implement a loyalty program, incentivize customers to increase purchase frequency. 
 
 # Assumptions and Caveats:
 
