@@ -48,7 +48,7 @@ Revenue performance from 2011 to 2013 was shaped by product mix and pricing stra
 
 * **Australia recorded the highest average order value across all three years**, indicating that customers in the region are willing to make higher-value purchases on average. Given this purchasing behavior, increasing order volume in this region presents a key growth opportunity.
 
-![Region](https://github.com/user-attachments/assets/b3fae57b-4678-4350-b26d-b9f80d4a8f3e)
+![D  Region](https://github.com/user-attachments/assets/1d3e907a-9129-4805-9df0-d8b5b82a0b7b)
 
 ### Product Performance:
 
