@@ -34,13 +34,13 @@ Revenue performance from 2011 to 2013 was shaped by product mix and pricing stra
 # Insights Deep Dive
 ### Sales Over Time:
 
-* **Overall sales revenue decreased by $1,232,857 from 2011 to 2012, a 17.43% YoY drop.** This is supported by large decreases in average order value across all six regions, with overall AOV falling by 44.02%.
+* **Overall sales revenue decreased by $1,232,857 from 2011 to 2012, a 17.4% YoY drop.** While overall order volume was improved, average order value fell across all six regions, contributing to a 44.0% decrease in overall AOV. 
  
-* **Sales performance rebounded in 2013, with overall sales revenue increasing by $10,507,639, a 179.86% YoY increase from 2012. Order volume also surged, growing by 551.24%.** This steep growth coincided with the launch of two new product categories: Accesories and Clothing. While this brought down average order value even further, the product expansion allowed for lower-cost entry points into the retailer's shop. 
+* **Sales performance rebounded in 2013, with overall sales revenue increasing by $10,507,639, a 179.86% YoY rise from 2012. Order volume also surged, growing by 551.2%.** This steep growth coincided with the launch of two new product categories: Accesories and Clothing. While this brought down average order value even further, the product expansion allowed for lower-cost entry points into the retailer's shop. 
 
 * **Revenue peaked at $1,874,128.00 in December 2013, while order volume hit a high of 2,192 the same month.** This seasonal spike aligns with a universal surge in retail activity leading up to the end-of-year holidays. Compared to December 2012, revenue grew by 200.12% and order volume by 517.46%, underscoring the interaction between the expanded product mix and holiday demand.
 
-![Time-Series (Overall)](https://github.com/user-attachments/assets/c2db7fe5-d43e-42c9-9134-722931184b7f)
+![D  Overall (1)](https://github.com/user-attachments/assets/42eebac3-3b83-40ac-a4c8-14d6022da0eb)
 
 ### Regional Trends:
   
