@@ -44,9 +44,9 @@ Revenue performance from 2011 to 2013 was shaped by product mix and pricing stra
 
 ### Regional Trends:
   
-* **The U.S. and Australia are the company's top revenue-generating regions, making up 31.21% and 30.9% of historical revenue, respectively.** This high performance relative to other regions is driven by higher levels of order volume as well as high AOV in Australia. However, both markets along with Canada were the drivers of the 2012 revenue decline. While all regions experienced a dip in in Average Order Value (AOV), these three countries had the lowest percentage gains in order volume, insufficient to offset the drop in AOV. This resulted in a -46.18% revenue decrease in Canada, a 41.47% drop in the U.S., and a -16.98% decrease in Australia.
+* **The U.S. and Australia are the company's top revenue-generating regions, making up 31.21% and 30.9% of historical revenue, respectively.** This is driven by higher levels of order volume compared to other regions as well as high AOV in Australia. However, both markets along with Canada drove the 2012 revenue decline. While all six regions experienced a dip in in Average Order Value (AOV), these three countries had the lowest percentage gains in order volume, insufficient to offset the drop in AOV. This resulted in a -46.2% revenue decrease in Canada, a 41.5% drop in the U.S., and a -17.0% decrease in Australia.
 
-* **Australia recorded the highest average order value across all three years**, indicating that customers in the region are willing to make higher-value purchases on average. Given this purchasing behavior, increasing order volume in this region presents a key growth opportunity.
+* **Australia recorded the highest historical average order value**, indicating that customers in the region are willing to make higher-value purchases on average. Given this purchasing behavior, increasing order volume in this region presents a key opportunity for revenue growth.
 
 ![D  Region](https://github.com/user-attachments/assets/1d3e907a-9129-4805-9df0-d8b5b82a0b7b)
 
