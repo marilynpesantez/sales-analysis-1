@@ -39,7 +39,7 @@ Revenue performance from 2011 to 2013 was shaped by product mix and pricing stra
 
 * **Revenue peaked at $1,874,128.00 in December 2013, while order volume hit a high of 2,192 the same month.** This seasonal spike aligns with a universal surge in retail activity leading up to the end-of-year holidays. Compared to December 2012, revenue grew by 200.12% and order volume by 517.46%, underscoring the interaction between the expanded product mix and holiday demand.
 
-![D  Overall (1)](https://github.com/user-attachments/assets/42eebac3-3b83-40ac-a4c8-14d6022da0eb)
+![D  Overall (2)](https://github.com/user-attachments/assets/aaed61ab-93aa-4bd8-ba7c-9edfb7f4871b)
 
 ### Regional Trends:
   
