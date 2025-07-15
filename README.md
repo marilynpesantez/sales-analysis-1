@@ -59,7 +59,7 @@ Revenue performance from 2011 to 2013 was shaped by product mix and pricing stra
 
 * **Touring Bikes and broader product expansion fueled strong revenue recovery in 2013.** The company introduced Accesories and Clothing in late 2012, which despite only accounting for 6.1% of revenue in 2013, diversified the product mix and and likely supported customer acquisition. These lower-cost items allowed for average selling prices of $19.40 and $37.25 within the Accesories and Clothing categories, respectively, and sold a total of 43,120 units in that first full year. This boost in traffic likely supported the sales of high-value items like bikes. Touring bikes saw strong adoption in the US and Australia, making up 23%.4% of sales revenue in 2013.
 
-![Product 1](https://github.com/user-attachments/assets/7d9ea205-632f-45df-bfb9-fabe284880d4)
+![P2](https://github.com/user-attachments/assets/0fbf627c-76be-4ce5-8e9f-e38ba5b632a9)
 
 # Recommendations:
 
