@@ -1,5 +1,5 @@
 # Project Background
-This project explores sales, customer, and product-level data from an anonymous retailer, with available records spanning from December 29th, 2010, to January 28th, 2014. Although the original data source is unspecified, the datasets provides a multi-year view of retail activity, making it well-suited for exploratory analysis. This project analyzes overall retail performance to uncover actionable insights into sales trends, customer behavior, and product performance. The goal is to uncover opportunities for targeted promotions, customer segmentation strategies, particularly around seasonal fluctuations and holiday-driven demand.
+This project explores sales, customer, and product-level data from an anonymous retailer, with available records spanning from December 29th, 2010, to January 28th, 2014. Although the original data source is unspecified, the datasets provides a multi-year view of retail activity, making it well-suited for exploratory analysis. This project analyzes overall retail performance to uncover actionable insights into sales trends and product performance. The goal is to uncover opportunities for targeted regional promotions, particularly around seasonal fluctuations and holiday-driven demand, as well as long-term product inventory strategy.
 
 
 Insights and recommendations are provided on the following key areas:
@@ -7,7 +7,6 @@ Insights and recommendations are provided on the following key areas:
 - **Sales Trend Analysis:** An evluation of monthly and seasonal sales performance, focusing on key metrics such as Sales Revenue, Order Volume, Average Order Value (AOV), and YoY growth. These insights help uncover demand cycles and inform more effective promotion timing.
   **Regional Sales Comparison:** A comparison of sales performance across 6 geographic regions, identifying areas of strength and untapped potential. These insights can support region-specific loyalty strategies as well as customer acquisition efforts.
 - **Product Perfromance Evaluation:** An in-depth analysis of high top-performing categories, subcategories, and products to understand their contribution to overall revenue over time. These insights will inform product lifecycle strategy, expansion planning, as well as product bundling or promotional opportunities.
-- **Customer Behavior Segmentation:** A segmentation of customers based on demographic attributes (e.g., age group, gender) to reveal trends in purchasing behavior and customer value. These insights can guide personalized marketing, loyalty programs, and the identification of high-value customer segments.
 
 The SQL queries used to inspect and clean the data for this analysis can be found here 
 
@@ -25,7 +24,7 @@ The companies main database structure as seen below consists of three tables: go
 
 ### Overview of Findings
 
-Revenue performance from 2011 to 2013 was shaped by product mix and pricing strategy, which influenced volitality in demand. A poorly timed discontinuation of the top-selling Road Bike model led to considerable revenue decline in 2012, while the 2013 rebound was driven by high-volume Mountain Bike sales and more broadly, the introduction of lower-cost products in the new Accessories and Clothing categories. The stability of future revenue depends on aligning product transitions with purchasing behavior, such as using lower-ticket items to drive customer acquisition and volume. Regional sales cycles should focused on around stimulating demand in high AOV regions like and upselling during periods of high demand.
+Revenue performance from 2011 to 2013 was shaped by product mix and pricing strategy, which influenced volitality in demand. A poorly timed discontinuation of the top-selling Road Bike model led to considerable revenue decline in 2012, while the 2013 rebound was driven by high-volume Mountain Bike sales and more broadly, the introduction of lower-cost products in the new Accessories and Clothing categories. The stability of future revenue depends on aligning product transitions with purchasing behavior, such as using lower-ticket items to drive customer acquisition and volume. Regional sales cycles should be centered around stimulating demand in high AOV regions like and upselling during periods of high demand.
 
 ![image](https://github.com/user-attachments/assets/58c51cdf-25dd-4872-8614-1b63d5587aaa)
 
