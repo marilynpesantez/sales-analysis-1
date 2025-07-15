@@ -27,8 +27,7 @@ The companies main database structure as seen below consists of three tables: go
 
 Revenue performance from 2011 to 2013 was shaped by product mix and pricing strategy, which influenced volitality in demand. A poorly timed discontinuation of the top-selling Road Bike model led to considerable revenue decline in 2012, while the 2013 rebound was driven by high-volume Mountain Bike sales and more broadly, the introduction of lower-cost products in the new Accessories and Clothing categories. The stability of future revenue depends on aligning product transitions with purchasing behavior, such as using lower-ticket items to drive customer acquisition and volume. Regional sales cycles should focused on around stimulating demand in high AOV regions like and upselling during periods of high demand.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
-
+![image](https://github.com/user-attachments/assets/58c51cdf-25dd-4872-8614-1b63d5587aaa)
 
 # Insights Deep Dive
 ### Sales Over Time:
